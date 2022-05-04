@@ -1,5 +1,7 @@
 # EtiqCasierLycee
 Fabrication d'etiquettes pour casier au lycee 
+
+
 Il faut mettre la liste d eleves extraite de pronotes en la renommant en
  "nomdelaclasseGroupe".csv
 Puis executer./traitlistapp2.sh ou ./traitlistapp3.sh
