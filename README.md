@@ -14,3 +14,6 @@ de l'élève dans une case différente et toutes les infos annexes sont gardées
 
 Au final vous aurez une liste au format CSV qui est addaptée au publipostage qui permettra facilement de faire
 des etiquettes personnalisées.
+
+suivre ce lien sur le publipostage:
+https://blog.liberetonordi.com/index.php?post/libreoffice-publipostage
