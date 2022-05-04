@@ -11,3 +11,6 @@ l'adresse les LV....
 
 Si vous executez trtLstAppNmPrnmSep.sh Vous aurez un fichier listcompmod3.csv avec nom et prenom
 de l'élève dans une case différente et toutes les infos annexes sont gardées(Adresse, langueVivante...)
+
+Au final vous aurez une liste au format CSV qui est addaptée au publipostage qui permettra facilement de faire
+des etiquettes personnalisées.
